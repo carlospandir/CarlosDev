@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(231, 229, 229);
+}
+.sobre-min{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(252,70,107,1);
+    background: radial-gradient(circle, rgba(252,70,107,1) 0%, rgba(63,94,251,1) 100%);
+    height: 650px
+}
+.sobre-min h1{
+    position: relative;
+    right: 15%;
+    margin-bottom: -23px;
+    font-size: 18px;
+}
+.detalhes{
+    display: flex;
+    align-items: center;
+    margin-bottom: -40px;
+    margin-left: -190px;
+}
+.detalhes h2{
+    font-size: 100px;
+}
+.detalhes figure img{
+    width: 20px;
+    height: 20px;
+}
+#insta{
+    width: 25px;
+    height: 25px;
+    margin-top: -3px;
+}
+.detalhes figure{
+    display: flex;
+    margin-top: 60px;
+}
+.sobre-min h2{
+    margin-right:1.4%;
+    font-size: 100px;
+}
+a{
+    width: 35px;
+    height: 35px;
+}
+.sobre-min p{
+    font-family: Roboto,sans-serif;
+    font-size: 10px;
+}
+.sobre-min #pe{
+    margin-top: -20px;
+}
+.sobre-min #pe #pe1{
+    margin-left: 100px;
+}
+.sobre-min #pe #pe2{
+    margin-top: -2px;
+}
